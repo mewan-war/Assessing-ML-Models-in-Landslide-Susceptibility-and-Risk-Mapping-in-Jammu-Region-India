@@ -6,4 +6,4 @@ Resources include:
 	(3) R Code for plotting combined ROCs based on (2), and
 	(4) R Notebook for RF-based LSI Classification - including model assessment and global SHAP analysis.
 
-M. War, S. Basu, S. Thota, K. Kurte and K. S. Rajan, "Systematic Assessment of ML Models’ Performance & its Explainability for Landslide Susceptibility and Risk Mapping in Jammu Region, India", accepted to be published in _IEEE IGARSS_, Washington, D.C., USA, 2026.
+M. War, S. Basu, S. Thota, K. Kurte and K. S. Rajan, "SYSTEMATIC ASSESSMENT OF ML MODELS’ PERFORMANCE & ITS EXPLAINABILITY FOR LANDSLIDE SUSCEPTIBILITY AND RISK MAPPING IN JAMMU REGION, INDIA", accepted to be published in _IEEE IGARSS_, Washington, D.C., USA, 2026.
